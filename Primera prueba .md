@@ -1,3 +1,6 @@
+readme.md
+[enlace]("https://github.com/d-prieto")
+
 primeras porgramaciones de arduino 
  # Circuitos Electricos 
  ## Error de programacion
@@ -135,7 +138,7 @@ void loop() {
 }
 
 
- [enlace]("file:///home/usuario/Escritorio/morse_2")Morse 2 
+ [enlace]("file:///home/usuario/Escritorio/morse_2") Morse 2 
  
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
