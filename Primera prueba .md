@@ -81,6 +81,7 @@ void loop() {
 
 
 ## Probando diferentes numeros  
+
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
@@ -88,6 +89,7 @@ void setup() {
 }
 
 // the loop function runs over and over again forever
+
 void loop() {
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
   delay(1000);                       // wait for a second
@@ -108,12 +110,17 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);
   delay(250);
 }
+
 ## codigo morse nombre:
+
+
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_BUILTIN, OUTPUT);
 }
-[enlace]("archivo") morse 1
+
+[enlace]("archivo") Morse 1
+
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_BUILTIN, OUTPUT);
@@ -128,7 +135,44 @@ void loop() {
 }
 
 
-morse 2 
+ [enlace] Morse 2 
+void setup() {
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop(){
+  
+  punto();
+  raya();
+  punto();
+  raya();
+  punto();
+  raya();
+  punto();
+  punto();
+  raya();
+  punto();
+  punto();
+  raya();
+  delay(2000);
+}
+
+// the loop function runs over and over again forever
+  void punto  () {
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(100);                      
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(300); 
+  }
+
+void raya (){
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(800);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(300);
+}
+
+  
 
 
 
@@ -170,25 +214,7 @@ void raya (){
   delay(300);
 }
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  ### Primera Prueba
+ ### Primera Prueba
   
   ## Protoboard 
   
