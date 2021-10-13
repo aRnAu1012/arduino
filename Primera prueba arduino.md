@@ -50,13 +50,17 @@ El segundo puede fundir el led.
   ## Protoboard 
   
   [imajen](https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/unknown1)
+  
   Imagen de Miguel Angel
+  
   
   
   [imajen](https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/arduino.png)
+  
   Imagen de Miguel Angel
    
    [imajen](https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/unknown.png)
+   
    Imagen de Miguel Angel
   
   
