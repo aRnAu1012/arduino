@@ -95,6 +95,61 @@ void loop() {
   delay(50);                       // wait for a second
 }
  Lo que ha pasado es que se enciende mas de 1 segundo pero al apagarse se apaga muy rapido para que se vuelva a encender-se 
+ 
+ void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(150);                      
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(200); 
+
+
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(250);
+}
+## codigo morse nombre:
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop(){
+  //A
+  punto();
+  raya();
+  //R
+  punto();
+  raya();
+  punto();
+  //N
+  raya();
+  punto();
+  //A
+  punto();
+  raya();
+  //U
+  punto();
+  punto();
+  raya();
+  delay(2000);
+}
+
+// the loop function runs over and over again forever
+  void punto  () {
+  digitalWrite(LED_BUILTIN, HIGH);   
+  delay(100);                      
+  digitalWrite(LED_BUILTIN, LOW);    
+  delay(300); 
+  }
+
+void raya (){
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(800);
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(300);
+}
+
   
   
   
