@@ -178,7 +178,7 @@ void raya (){
 
 
 
-[enlace]("archivo")
+[enlace]("archivo") morse 3
 
 void loop(){
   //A
