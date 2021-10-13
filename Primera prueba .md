@@ -135,7 +135,7 @@ void loop() {
 }
 
 
- [enlace]("archivo")Morse 2 
+ [enlace]("file:///home/usuario/Escritorio/morse_2")Morse 2 
  
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
@@ -178,7 +178,7 @@ void raya (){
 
 
 
-[enlace]("archivo") morse 3
+[enlace]("file:///home/usuario/Escritorio/morse_3") morse 3
 
 void loop(){
   //A
