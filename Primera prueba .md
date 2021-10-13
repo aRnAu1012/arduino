@@ -1,11 +1,10 @@
 readme.md
 
-[enlace]("https://github.com/d-prieto")
+[enlace]("https://github.com/d-prieto"):
 
-
-primeras porgramaciones de arduino 
- # Circuitos Electricos 
- ## Error de programacion
+Primeras porgramaciones de arduino 
+# Circuitos Electricos 
+## Error de programacion
  
  No havia permiso para programar por el usb:
 ARV dude:
