@@ -57,7 +57,7 @@ El segundo puede fundir el led.
  
 1010---->
   
-Lenguaje de programacion te traduce esto ( I I I ),
+### Lenguaje de programacion :
 
 ### C++:
 2 FUNCIONES:
@@ -113,7 +113,27 @@ void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_BUILTIN, OUTPUT);
 }
+[enlace]("archivo") morse 1
+void setup() {
+  // initialize digital pin LED_BUILTIN as an output.
+  pinMode(LED_BUILTIN, OUTPUT);
+}
 
+// the loop function runs over and over again forever
+void loop() {
+  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);                       // wait for a second
+  digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);                       // wait for a second
+}
+
+
+morse 2 
+
+
+
+
+[enlace] ("morse 3")
 void loop(){
   //A
   punto();
