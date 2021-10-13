@@ -44,6 +44,45 @@ El segundo puede fundir el led.
   Cortocircuito Evitar:
   5V / 0 ohm = INFINITO A 
   
+  ### Primera "Prueba.md"
+  Lenguaje:
+  
+ descodificador de señales extraterrestres 
+ Lenguaje maquina 
+ Lenguaje de programacion :
+ C
+ C++
+ Python
+ JAVA
+ 
+1010---->
+  
+Lenguaje de programacion te traduce esto ( I I I ),
+
+### C++:
+2 FUNCIONES:
+(Preparacion)SETUP()----> LO QUE SE PONE AL PRINCIPIO SE EJECUTA UNA SOLA VEZ : HACER UN PASTEL()
+(Bucle)LOOP()----->Se ejecuta despues y se repite indefinidamente : HACER UNA TORTILLA()
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   ### Primera Prueba
   
