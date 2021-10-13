@@ -1,6 +1,6 @@
 readme.md
 
-[enlace]("https://github.com/d-prieto"):
+https://github.com/d-prieto
 
 Primeras porgramaciones de arduino 
 # Circuitos Electricos 
