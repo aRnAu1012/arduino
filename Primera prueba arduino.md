@@ -47,9 +47,17 @@ El segundo puede fundir el led.
   
   ### Primera Prueba
   
-  https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/unknown1
+  ## Protoboard 
+  
+  [imajen](https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/unknown1)
   
   Imagen de Miguel Angel
+  
+  
+  [imajen](https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/arduino.png)
+  
+   Imagen de Miguel Angel
+  
   
   
   
