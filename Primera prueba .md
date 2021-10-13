@@ -224,9 +224,10 @@ void raya (){
   
   ## Protoboard 
   
-  [imajen](https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/unknown1)
+ [imajen]("https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/unknown1")
   
-  Imagen de Miguel Angel
+ 
+ Imagen de Miguel Angel
   
   
   
