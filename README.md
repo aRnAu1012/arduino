@@ -1,4 +1,29 @@
 # Arduino
 ARDUINO
-[(Clase de binario)](https://github.com/aRnAu1012/arnau/blob/main/arquitectura%20de%20ordenadores.MD#clase-de-binario) 
-tarea:
+
+[enlace](https://github.com/d-prieto?tab=repositories)
+
+-Primera prueba.md
+Programa de ejemplo BLINK.INO
+error en arduino:
+Ha ocurrido un error mientras se enviaba el sketch
+avrdude: ser_open(): can't open device "/dev/ttyACM0": Permission denied
+los errores arduino IDE :
+COMPILAR: 
+Traducir a codigo maquina 
+-83 5e FF o A 38
+
+enviar:
+ABRIR PUERTO 
+-enviar el compilado 
+-Revisarla 
+CERRAR PUERTO 
+
+
+
+
+## Revisar
+Componentes
+  
+Electricos
+ 
