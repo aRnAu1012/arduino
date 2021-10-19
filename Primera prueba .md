@@ -6,10 +6,10 @@ https://github.com/d-prieto
 ##  Arduino 
 
 
-## Error de programacion
+# Errores de programacion.
 ![imagen](https://user-images.githubusercontent.com/90753272/137865734-e17053bf-9ccb-49f3-998d-a25b733f8065.png) imajen de christian
 
-# Primer error de Arduino
+# Errores de programacion.
 ![imagen](https://user-images.githubusercontent.com/90753272/137865875-96d1987e-9cdb-4ee9-bdbd-adf1bc371ddc.png) imajen de christian
 
 
