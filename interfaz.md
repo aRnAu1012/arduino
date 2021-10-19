@@ -1,6 +1,6 @@
 ## Apuntes Arduino.
 
-```
+
 
 swichState = 0;
 
@@ -23,7 +23,7 @@ Void loop (){ ASIGNAR SWICHSTATE = Digital Read (2);
  }
  else (); 
  {PEDIR PIZZA }
- 
+``` 
 ### Primer Interfaz:
  
  int switchState = 0;
