@@ -255,6 +255,8 @@ void raya (){
  - Despues conectamos el Arduio por USB.
  - Cargamos el programa Blink.INO 
  - Desde dentro de Arduino buscamos Archivo ---> ejemplos ---> 1.Basics--->Blink.
+ - Pulsamos el boton Subir
+ - Errores posibles 
   
   ### Protoboard 
   
