@@ -64,6 +64,7 @@ delay(250); // espera un cuarto de segundo
 
 } // vuelve al inicio del bucle
 
+Hemos hecho el primer pryecto de interfaz de nave escrito que hemos puesto todos los cables en su sitio y el boton .
 
 
 
