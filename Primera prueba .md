@@ -133,15 +133,46 @@ void loop() {
   delay(250);
 }
 
-## codigo morse nombre:
 
 
-void setup() {
-  // initialize digital pin LED_BUILTIN as an output.
-  pinMode(LED_BUILTIN, OUTPUT);
-}
+ ## Como programar Arduino:
+ -Primero tenemos arduino IDE instalado.
+ -Tenemos un usuario con permiso.
+ - Despues conectamos el Arduio por USB.
+ - Cargamos el programa Blink.INO 
+ - Desde dentro de Arduino buscamos Archivo ---> ejemplos ---> 1.Basics--->Blink.
+ - Pulsamos el boton Subir
+ 
+ - Errores posibles:
+ - Si no hay puertos --->Herramientas ---> Puerto.
+ - Fert Busy ---> Esperad 1 min aprox , sin desenchufar Arduino.
+ - Conseguimos programar el Blink.INO 
+   1-> buscarlo en Internet --->Arduino.cc
+   2->Subirlo nosotros / Programas --->Blink.INO ---> subimos la carpeta al repositorio .
+   3->Enlazar en primeras pruebas.md
+   
+   Otras opciones:
+   -Captura de pantalla (Dificil de Regular)
+   -Copiar ,pegar el codigo 
+   """ C++ ---> 3 acentos graves.
+   Bien para añadir texto.
+  
+  
+  
+  ## codigo morse nombre:
 
-Morse 1
+
+
+-->Morse 1: Hicimos modificaciones en el codigo para canbiar el tiempo de brillo.Para eso hicimos cambios en las lineas delay(-);
+
+  # Que hace Blink.INO
+  
+  void loop ()[
+  cuatro sentencias (o lineas)
+  ]
+ 
+ 
+ 
  
 // the setup function runs once when you press reset or power the board
 void setup() {
@@ -248,52 +279,6 @@ void raya (){
   digitalWrite(LED_BUILTIN, LOW);
   delay(300);
 }
-
- ## Como programar Arduino:
- -Primero tenemos arduino IDE instalado.
- -Tenemos un usuario con permiso.
- - Despues conectamos el Arduio por USB.
- - Cargamos el programa Blink.INO 
- - Desde dentro de Arduino buscamos Archivo ---> ejemplos ---> 1.Basics--->Blink.
- - Pulsamos el boton Subir
- 
- - Errores posibles:
- - Si no hay puertos --->Herramientas ---> Puerto.
- - Fert Busy ---> Esperad 1 min aprox , sin desenchufar Arduino.
- - Conseguimos programar el Blink.INO 
-   1-> buscarlo en Internet --->Arduino.cc
-   2->Subirlo nosotros / Programas --->Blink.INO ---> subimos la carpeta al repositorio .
-   3->Enlazar en primeras pruebas.md
-   
-   Otras opciones:
-   -Captura de pantalla (Dificil de Regular)
-   -Copiar ,pegar el codigo 
-   """ C++ ---> 3 acentos graves.
-   Bien para añadir texto.
-  
-  
-  
-  
-  
-  
-  
-  
-  ### Protoboard 
-  
-[imajen]("https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/unknown1")
-  
- Imagen de Miguel Angel
-  
- [imajen](https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/arduino.png)
- 
- Imagen de Miguel Angel
-   
- [imajen](https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/unknown.png)
-   
- Imagen de Miguel Angel
-  
-  
-
   
   
   
@@ -314,7 +299,3 @@ void raya (){
   
   
   
-  
-  
-  
-
