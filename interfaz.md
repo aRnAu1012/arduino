@@ -1,5 +1,7 @@
 ## Declaracion de Variable.
 
+```
+
 swichState = 0;
 
 SwichState es de tipo "int" 
@@ -63,6 +65,8 @@ delay(250); // espera un cuarto de segundo
 }
 
 } // vuelve al inicio del bucle
+
+```
 
 Hemos hecho el primer proyecto de interfaz de nave escrito que hemos puesto todos los cables en su sitio y el boton , el libro nos ha ayudado al principo para cojer ritmo en el codigo.
 
