@@ -26,6 +26,9 @@ El segundo puede fundir el led.
  
  En los circuitos en serie ----> Si desconectamos una parte todo se apaga
  
+ 
+ 
+ 
  ## Apuntes sobre electricidad :
  Voltaje ---> Altura (Diferencia de potencial)
   Intensidad o Amperaje ---> Cantidad de agua a rotuladores
