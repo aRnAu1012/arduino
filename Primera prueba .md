@@ -1,22 +1,29 @@
 
-# 1 Trimestre
 https://github.com/d-prieto
+
+# 1 Trimestre
 
 Primeras porgramaciones de arduino 
 # Circuitos Electricos 
 ## Error de programacion
  
- No havia permiso para programar por el usb:
-ARV dude:
-Lanzó una excepcion y detuvo el programa 
-Esto ocurrio por un tema de permiso de usuario 
+Intentamos programar , el programa de ejemplo blink.ing, lo que ocurrio fue,
+que el programa , con el USB no daba permiso.
 
+
+## Erorres y exepciones 
+-BUG:Es un tipo de error pero no esperado ( el programa deberia hacer una cosa y hace otra cosa totalmente diferente). 
+-GLITCH: Es un tipo de Bug grafico , cualquier comportamiento grafico no esperado.                                       
+-ERROR : Operacion no permitida.
+-Excepcion: Son errores que estan controloados por el mismo programa.
+-Lag: Es un retraso en las comunicaciones.
 
 ## Primeros circuitos 
 Esto pese a funcionar y dar luz genera dos problemas:
 El primero se calienta y es incomodo de tocar. 
 El segundo puede fundir el led.
  +5 voltios ----LED1----LED2----LED3----LED4
+ 
  En los circuitos en serie ----> Si desconectamos una parte todo se apaga
  
  ## Apuntes sobre electricidad :
