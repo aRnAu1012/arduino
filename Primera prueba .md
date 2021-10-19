@@ -256,7 +256,27 @@ void raya (){
  - Cargamos el programa Blink.INO 
  - Desde dentro de Arduino buscamos Archivo ---> ejemplos ---> 1.Basics--->Blink.
  - Pulsamos el boton Subir
- - Errores posibles 
+ 
+ - Errores posibles:
+ - Si no hay puertos --->Herramientas ---> Puerto.
+ - Fert Busy ---> Esperad 1 min aprox , sin desenchufar Arduino.
+ - Conseguimos programar el Blink.INO 
+   1-> buscarlo en Internet --->Arduino.cc
+   2->Subirlo nosotros / Programas --->Blink.INO ---> subimos la carpeta al repositorio .
+   3->Enlazar en primeras pruebas.md
+   
+   Otras opciones:
+   -Captura de pantalla (Dificil de Regular)
+   -Copiar ,pegar el codigo 
+   """ C++ ---> 3 acentos graves.
+   Bien para añadir texto.
+  
+  
+  
+  
+  
+  
+  
   
   ### Protoboard 
   
