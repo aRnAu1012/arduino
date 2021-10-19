@@ -3,17 +3,17 @@ https://github.com/d-prieto
 
 # 1 Trimestre
 
-Primeras porgramaciones de arduino 
-# Circuitos Electricos 
+##  Arduino 
+
 
 ## Error de programacion
-![imagen](https://user-images.githubusercontent.com/90753272/137865734-e17053bf-9ccb-49f3-998d-a25b733f8065.png)
+![imagen](https://user-images.githubusercontent.com/90753272/137865734-e17053bf-9ccb-49f3-998d-a25b733f8065.png) imajen de christian
 
 # Primer error de Arduino
-![imagen](https://user-images.githubusercontent.com/90753272/137865875-96d1987e-9cdb-4ee9-bdbd-adf1bc371ddc.png)
+![imagen](https://user-images.githubusercontent.com/90753272/137865875-96d1987e-9cdb-4ee9-bdbd-adf1bc371ddc.png) imajen de christian
 
 
- 
+ # Circuitos Electricos 
 Intentamos programar , el programa de ejemplo blink.ing, lo que ocurrio fue,
 que el programa , con el USB no daba permiso.
 
@@ -35,11 +35,11 @@ El segundo puede fundir el led.
  
  ## Primera prueba con boton
  
- ![imagen](https://user-images.githubusercontent.com/90753272/137865286-424499cd-6f6f-4f85-b709-84e09d1b6365.png)
+ ![imagen](https://user-images.githubusercontent.com/90753272/137865286-424499cd-6f6f-4f85-b709-84e09d1b6365.png) imajen de christian
 
  
  ## Apuntes sobre electricidad :
- Voltaje ---> Altura (Diferencia de potencial)
+  Voltaje ---> Altura (Diferencia de potencial)
   Intensidad o Amperaje ---> Cantidad de agua a rotuladores
   Resistencia ----> Resistencia al paso del agua a rotuladores
   Intensidad = Voltaje /resistencia ---> Ley de Ohm
@@ -69,7 +69,6 @@ El segundo puede fundir el led.
   
   ### Primera "Prueba.md"
   Lenguaje:
-  
  descodificador de señales extraterrestres 
  Lenguaje maquina 
  Lenguaje de programacion :
