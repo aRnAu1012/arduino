@@ -171,9 +171,6 @@ void loop() {
   cuatro sentencias (o lineas)
   ]
  
- 
- 
- 
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
@@ -183,11 +180,11 @@ void setup() {
 // the loop function runs over and over again forever
 void loop() {
   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(100);                       // wait for a second
+  delay(1000);                       // wait for a second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(300);                       // wait for a second
+  delay(1000);                       // wait for a second
 
-   digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
   delay(1000);                       // wait for a second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
@@ -196,10 +193,19 @@ void loop() {
   delay(200);                       // wait for a second
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(500);                       // wait for a second
-}
+  }
+  delay(_)
+  Nos pide un numero 
+  Ese numero seran los milisegundos de espera 
+  50 = 0"05 ---> el ojo humano no lo ve.
+  1000 ----> 1s 
+  60.000---> 1 minuto 
+  500---> medio segundo
+  -Hicimos un pulso largo y un pulso corto.
 
 
- [enlace]("file:///home/usuario/Escritorio/morse_2") Morse 2 
+Morse 2 
+ [enlace]("file:///home/usuario/Escritorio/morse_2") 
  
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
