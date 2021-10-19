@@ -249,9 +249,14 @@ void raya (){
   delay(300);
 }
 
- ### Primera Prueba
+ ## Como programar Arduino:
+ -Primero tenemos arduino IDE instalado.
+ -Tenemos un usuario con permiso.
+ - Despues conectamos el Arduio por USB.
+ - Cargamos el programa Blink.INO 
+ - Desde dentro de Arduino buscamos Archivo ---> ejemplos ---> 1.Basics--->Blink.
   
-  ## Protoboard 
+  ### Protoboard 
   
 [imajen]("https://raw.githubusercontent.com/miguelamgel1107/Arduino/main/unknown1")
   
@@ -266,7 +271,7 @@ void raya (){
  Imagen de Miguel Angel
   
   
-  
+
   
   
   
