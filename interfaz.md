@@ -1,7 +1,7 @@
 ## Apuntes Arduino.
 
 
-
+Ejemplo:
 swichState = 0;
 
 SwichState es de tipo "int" 
