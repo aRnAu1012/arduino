@@ -5,7 +5,14 @@ https://github.com/d-prieto
 
 Primeras porgramaciones de arduino 
 # Circuitos Electricos 
+
 ## Error de programacion
+![imagen](https://user-images.githubusercontent.com/90753272/137865734-e17053bf-9ccb-49f3-998d-a25b733f8065.png)
+
+# Primer error de Arduino
+![imagen](https://user-images.githubusercontent.com/90753272/137865875-96d1987e-9cdb-4ee9-bdbd-adf1bc371ddc.png)
+
+
  
 Intentamos programar , el programa de ejemplo blink.ing, lo que ocurrio fue,
 que el programa , con el USB no daba permiso.
