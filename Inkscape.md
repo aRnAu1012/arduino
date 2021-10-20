@@ -102,6 +102,16 @@ clic derecho en la imagen ------> vectorizar mapa de bits
 ### Explicacion del cuadro de vectorizar 
 
 ![imagen leon ](https://user-images.githubusercontent.com/90753272/138080528-ca0bf132-20bf-4fe4-8e2f-6913103fd397.png)
+
+Existen varias opciones :
+Lo primero es decir ;
+ Si el programa hara una o mas pasadas.
+ Con una unica pasada SIEMRE obtendremos 
+ una imagen en blanco y negro (que podremos colorear despues)
+ .Una unica pasada 
+ Tenemos corte  de luminosidad ----> cuantinizacion de colores ---> zonas en color similares 
+ Deteccion de bordes :
+ -Revisa el contraste entre pixeles.
   
   
 
