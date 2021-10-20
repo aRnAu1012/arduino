@@ -9,6 +9,7 @@ La resolucion se puede expresar de diferentes formas.
 -N Total de pixeles , normalmente MP (megapixeles)
 Esto es el numero que resulta de A * B en millones de pixeles.
 
+## lineas horizontales
 -Lineas Horizontales . En video se utiliza la cantidad de lineas horizontales , normalmente se asume una proporcion concreta entre A y B , po ejemplo 4/3 o 16/9
 Las lineas horizontales suelen ser 
 240 p (240 pixeles de alta )
@@ -16,5 +17,11 @@ Las lineas horizontales suelen ser
 1080 p (1080 pixeles de alta)
 2 k 
 4 k 
+
+## Arhivo
+-Un archivo puede expresar su resolucion pidiendo A* D 
+Por ejemlo una imajen de 350 * 250 pixeles, se utiliza cuando hablamos de archivo concretos 
+NO CONFUNDIR con la resolucion de impresion 
+medida en puntos por pulgada.
 
      
