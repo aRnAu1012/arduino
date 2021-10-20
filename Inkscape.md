@@ -64,8 +64,12 @@ medida en puntos por pulgada.
   .PDF (Portable Document Format)
   
   ### Rasterizar imagen:
+ Imagen Raster-------> Vectorizar-----> Imagen vectorial.
+ Imagen vectorial-------->Rasterizar------>Imagen Raster.
+ 
+ Rasterizamos una imagen, cuando pasamos de una imagen a una imagen raster (mapa de bits).
   
-  Rasterizamos una imagen, cuando pasamos de una imagen a una imagen raster (mapa de bits).
+  
 
 
 
