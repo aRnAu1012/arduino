@@ -47,5 +47,7 @@ medida en puntos por pulgada.
  ### GIF:
  ![](https://1.bp.blogspot.com/-mSaKiXhGEP4/XbBFzwyTqkI/AAAAAAAAA38/ad94ZhjQ9KAYRUCiF1tKmySF8aRc4J_oQCLcBGAsYHQ/s1600/697b023b-64a5-49a0-8059-27b963453fb1.gif)
  
- 
+ ## Imagenes Vectoriales
+  Se define la imagen como un conjunto de formas (lineas,puntos...) cada una de estas formas esta definido matematicamente.
+  
 
