@@ -36,6 +36,7 @@ medida en puntos por pulgada.
  -GIF 
  -PNG
  -TIFF
+ 
  Otros particulares 
  -PSD
  
