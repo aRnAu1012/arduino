@@ -147,7 +147,8 @@ leon 1.1.svg
 
 ## imagenes propias
 
-![imagen](https://user-images.githubusercontent.com/90753272/138087826-76991144-0520-496c-a6de-f14d5714ee2f.png)
+![imagen](https://user-images.githubusercontent.com/90753272/138088706-a754a26b-7241-49d7-b39d-bce2005681e0.png)
+
 
 
 
