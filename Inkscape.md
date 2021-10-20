@@ -135,7 +135,7 @@ Para ello vamos a propiedades de documento a tamaño vamos a ajustar pagina a co
 
 Seleccionamos la imagen y pulsamos el boton ajustar pagina a contenido o seleccion 
 
-(captura)![captura leon ](https://user-images.githubusercontent.com/90753272/138083530-5c11df9f-0e2e-4274-9bbe-c51018ac87a3.png)
+![captura leon ](https://user-images.githubusercontent.com/90753272/138083530-5c11df9f-0e2e-4274-9bbe-c51018ac87a3.png)(captura)
 
 
 
