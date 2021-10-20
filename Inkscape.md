@@ -26,3 +26,6 @@ medida en puntos por pulgada.
 
 ## Sistema para detallar los colores 
  
+-RyG(RealGreenBlue) para pantalla
+-CMYK para imprimir 
+-Colores inscapes
