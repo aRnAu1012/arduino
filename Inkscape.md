@@ -24,4 +24,5 @@ Por ejemlo una imajen de 350 * 250 pixeles, se utiliza cuando hablamos de archiv
 NO CONFUNDIR con la resolucion de impresion 
 medida en puntos por pulgada.
 
-     
+## Sistema para detallar los colores 
+ 
