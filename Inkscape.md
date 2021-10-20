@@ -77,7 +77,8 @@ medida en puntos por pulgada.
  Vamos a tomar la imagen del cuadro del leon de Rosa Bonheur.
  
  Esta es la imagen Rasterizada original.
- file:///home/auxiliarinformatica/Documentos/imagen%20leon.jpg![imagen](https://user-images.githubusercontent.com/90753272/138074710-53badcb6-dfa7-4d82-9460-6af0782a6536.png)
+ ![imagen](https://user-images.githubusercontent.com/90753272/138074710-53badcb6-dfa7-4d82-9460-6af0782a6536.png)
+ 
 
   
   
