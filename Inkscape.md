@@ -139,6 +139,17 @@ Seleccionamos la imagen y pulsamos el boton ajustar pagina a contenido o selecci
 
 
 
+![imagen](https://user-images.githubusercontent.com/90753272/138084431-6f398328-b927-4eb1-9814-8dc7d047e155.png)
+
+
+
+
+
+
+
+-Vectorizamos el leon con las siguientes car
+
+
 
 
 
