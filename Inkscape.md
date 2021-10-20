@@ -1,4 +1,4 @@
-## Imajenes 
+## Imagenes 
 Las imajenes se guardan digitalmente de dos maneras:
 
 -Por un lado (Raster) Podemos hacer una Matriz de puntos (Mapa de bits) y a cada punto le asignamos un color (Pixel)
@@ -41,7 +41,7 @@ medida en puntos por pulgada.
  -PSD
  
  
- ### imajen png:
+ ### imagen png:
  ![](https://www.footyrenders.com/render/ansu-fati-21.png)
  
  ### GIF:
