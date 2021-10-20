@@ -62,5 +62,15 @@ medida en puntos por pulgada.
   Formato Mezcla , Raster y Vectorial.
   
   .PDF (Portable Document Format)
+  
+  ### Rasterizar imagen:
+  
+  Rasterizamos una imagen, cuando pasamos de una imagen a una imagen raster (mapa de bits).
+
+
+
+
+
+
 
 
