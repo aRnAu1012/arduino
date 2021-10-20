@@ -104,16 +104,41 @@ clic derecho en la imagen ------> vectorizar mapa de bits
 ![imagen leon ](https://user-images.githubusercontent.com/90753272/138080528-ca0bf132-20bf-4fe4-8e2f-6913103fd397.png)
 
 Existen varias opciones :
+
 Lo primero es decir ;
+
  Si el programa hara una o mas pasadas.
+ 
  Con una unica pasada SIEMRE obtendremos 
+ 
  una imagen en blanco y negro (que podremos colorear despues)
+ 
  .Una unica pasada 
+ 
  Tenemos corte  de luminosidad ----> cuantinizacion de colores ---> zonas en color similares 
+ 
  Deteccion de bordes :
+ 
  -Revisa el contraste entre pixeles.
   
   
+ ### Varias pasadas
+ 
+ Nos permite hacer una imagen vectorial mas compleja , con varios grises o colores.
+ Esto necesita mas capacidad de proceso
+ 
+ Leon 1.![imagen](https://user-images.githubusercontent.com/90753272/138083031-43490172-6e75-4fe7-a316-5824001a6ab7.png)
+
+Despues de importar el leon vamos a ajustar ,el lienzo .
+
+Para ello vamos a propiedades de documento a tamaño vamos a ajustar pagina a contenido 
+
+Seleccionamos la imagen y pulsamos el boton ajustar pagina a contenido o seleccion 
+
+(captura)![imagen](https://user-images.githubusercontent.com/90753272/138083107-993fc426-fa2f-4ca1-93e9-b2a173ee8501.png)
+
+
+
 
 
 
