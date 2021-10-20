@@ -48,3 +48,4 @@ medida en puntos por pulgada.
  ![](https://1.bp.blogspot.com/-mSaKiXhGEP4/XbBFzwyTqkI/AAAAAAAAA38/ad94ZhjQ9KAYRUCiF1tKmySF8aRc4J_oQCLcBGAsYHQ/s1600/697b023b-64a5-49a0-8059-27b963453fb1.gif)
  
  
+
