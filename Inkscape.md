@@ -70,6 +70,15 @@ medida en puntos por pulgada.
  Rasterizamos una imagen, cuando pasamos de una imagen a una imagen raster (mapa de bits).
  
  Vectorizar es pasar de un mapa de bits (Imagen Raster) a formato vectorial.
+ 
+ 
+ ### Ejercicio Vectorizacion 
+ 
+ Vamos a tomar la imagen del cuadro del leon de Rosa Bonheur.
+ 
+ Esta es la imagen Rasterizada original.
+ file:///home/auxiliarinformatica/Documentos/imagen%20leon.jpg![imagen](https://user-images.githubusercontent.com/90753272/138074710-53badcb6-dfa7-4d82-9460-6af0782a6536.png)
+
   
   
 
