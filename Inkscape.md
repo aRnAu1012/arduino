@@ -85,15 +85,23 @@ medida en puntos por pulgada.
  
 ### Inskape
 abrimos inskape , Tamaño Personalizado
+
 anchop 600 alto 1000
+
 Añadimos la imagen de internet 
+
 Archivo ---> Importar
+
 Arastrar la imagen
+
 copiar y pegar la imagen 
+
 clic derecho en la imagen ------> vectorizar mapa de bits
 
 
+### Explicacion del cuadro de vectorizar 
 
+![imagen leon ](https://user-images.githubusercontent.com/90753272/138080528-ca0bf132-20bf-4fe4-8e2f-6913103fd397.png)
   
   
 
