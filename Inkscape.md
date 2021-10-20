@@ -50,4 +50,12 @@ medida en puntos por pulgada.
  ## Imagenes Vectoriales
   Se define la imagen como un conjunto de formas (lineas,puntos...) cada una de estas formas esta definido matematicamente.
   
+  ### Formatos 
+  .SVG (SCALABLE VECTOR GRAPHIC)
+  .EPS 
+  Especificos:
+  .DWG 
+ 
+  Formato Mezcla 
+  .PDF (Portable Document Format)
 
