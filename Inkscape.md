@@ -29,3 +29,13 @@ medida en puntos por pulgada.
 -RyG(RealGreenBlue) para pantalla
 -CMYK para imprimir 
 -Colores inscapes
+
+
+## Formatos communes 
+ -JPG
+ -GIF 
+ -PNG
+ -TIFF
+ Otros particulares 
+ -PSD
+ 
