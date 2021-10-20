@@ -59,7 +59,7 @@ medida en puntos por pulgada.
   
   .DWG 
  
-  Formato Mezcla :
+  Formato Mezcla , Raster y Vectorial.
   
   .PDF (Portable Document Format)
 
