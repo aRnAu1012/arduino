@@ -40,3 +40,7 @@ medida en puntos por pulgada.
  Otros particulares 
  -PSD
  
+ ### imajen png:
+ https://www.footyrenders.com/render/ansu-fati-21.png
+ 
+ 
