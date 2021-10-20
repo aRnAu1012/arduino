@@ -139,8 +139,12 @@ Seleccionamos la imagen y pulsamos el boton ajustar pagina a contenido o selecci
 
 
 -Vectorizamos el leon con las siguientes caracteristiques :
+
 Multiples pasadas ,colores,
+
 leon 1.1.svg
+
+
 ![imagen](https://user-images.githubusercontent.com/90753272/138084662-b1ac67a0-cfe6-4771-a8c9-017df7c15ea0.png)
 
 
