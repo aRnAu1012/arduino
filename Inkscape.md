@@ -83,6 +83,16 @@ medida en puntos por pulgada.
  
  [Fuente](https://www.museodelprado.es/coleccion/obra-de-arte/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf)
  
+### Inskape
+abrimos inskape , Tamaño Personalizado
+anchop 600 alto 1000
+Añadimos la imagen de internet 
+Archivo ---> Importar
+Arastrar la imagen
+copiar y pegar la imagen 
+clic derecho en la imagen ------> vectorizar mapa de bits
+
+
 
   
   
