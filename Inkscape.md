@@ -52,10 +52,14 @@ medida en puntos por pulgada.
   
   ### Formatos 
   .SVG (SCALABLE VECTOR GRAPHIC)
+  
   .EPS 
+  
   Especificos:
+  
   .DWG 
  
-  Formato Mezcla 
+  Formato Mezcla :
+  
   .PDF (Portable Document Format)
 
