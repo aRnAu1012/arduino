@@ -138,9 +138,6 @@ Seleccionamos la imagen y pulsamos el boton ajustar pagina a contenido o selecci
 ![captura leon ](https://user-images.githubusercontent.com/90753272/138083530-5c11df9f-0e2e-4274-9bbe-c51018ac87a3.png)(captura)
 
 
--Vectorizamos el leon con las siguientes caracteristiques :
-
-Multiples pasadas ,colores,
 
 leon 1.1.svg
 
