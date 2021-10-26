@@ -32,6 +32,10 @@ Void loop (){ ASIGNAR SWICHSTATE = Digital Read (2);
  ## Proceso de Montaje
  
   - Materiales necesarios----->(leds,resistencies,boton)
+  leds--> 3 leds
+  resistencies---> 3 resistencies 
+  boton---> 1 boton
+  
    
   - Circuito
   
@@ -55,7 +59,7 @@ Void loop (){ ASIGNAR SWICHSTATE = Digital Read (2);
   
   -Video:
   
-  -Funciona:
+  -Funciona: si funciona , si no le das al boton esta encendido un boton , pero si le das al boton se encienden los 3 
   
    ## Variaciones 
    
