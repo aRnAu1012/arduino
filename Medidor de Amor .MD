@@ -39,13 +39,38 @@ Serail. es un objeto (cosa) entonces tenemos que definir con esa (cosa)
  Inicia la comunicacio por via USB 
  
  ## For
-for (int pinNumber = 2 ; pinNumber =5  ; pinNumber ++ ){
+for (int pinNumber = 2 ; pinNumber < 5  ; pinNumber ++){
          variable 
  pinNumber ++ = Suma 1 a pinNumber
  
- Escribir Numero (pinNumber);
+PinMode (pinNumber, OUTPUT);
+digitalWrite (pinMode,LOW);
+  
  
+ PinMode (2,OUTPUT);
+ DigitalWrite(2,LOW);
+ PinMode (3,OUTPUT);
+ digitalWrite (3,Low);
+ PinMode(4,OUTPUt);
+ digitalWrite (4,LOW);
  
+ For= REPETIR COSAS
+ 
+ ## LOOP
+ Declara una variable que cada vez que se cicle se volvera a declarar.
+ 
+ Int SensorVal= analogRead (SensorPin) = A0
+ 
+ Esta linea lee el voltaje que tiene el pin sensorPin(En este caso A0 )
+ 
+ y lo mapea a valores entre 0 y 1023 . 0 significa 0 voltios o GND 
+ 
+ y 1023 significa 5 voltios 
  
 
+ 
+ 
+ 
+ 
+ 
  }
