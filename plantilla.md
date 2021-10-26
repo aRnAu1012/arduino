@@ -49,5 +49,5 @@ Void loop (){ ASIGNAR SWICHSTATE = Digital Read (2);
   
    ## Variaciones 
    
-   -
+   
 
