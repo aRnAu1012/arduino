@@ -45,5 +45,7 @@ for (int pinNumber = 2 ; pinNumber =5  ; pinNumber ++ ){
  
  Escribir Numero (pinNumber);
  
+ 
+ 
 
  }
