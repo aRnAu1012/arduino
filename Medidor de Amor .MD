@@ -12,7 +12,7 @@ Este es un programa que mide temperatura de y enciende LEDS
  
 ## Constantes
 Int sensorPin =A0 ; 
-Cada vez que yo ponga sernsor Pin esto pondra A0 ;
+Cada vez que yo ponga sernsor Pin esto pondra = A0 ;
 
 Const float;
 
