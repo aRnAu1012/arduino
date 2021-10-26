@@ -43,4 +43,7 @@ for (int pinNumber = 2 ; pinNumber =5  ; pinNumber ++ ){
      variable 
  pinNumber ++ = Suma 1 a pinNumber
  
+ Escribir Numero (pinNumber);
+ 
+
  }
