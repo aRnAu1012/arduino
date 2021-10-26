@@ -47,6 +47,8 @@ Void loop (){ ASIGNAR SWICHSTATE = Digital Read (2);
    
    
    - Enlace codigo utilizado:
+   /home/usuario/Documentos/codigo_interfaz
+   
    
   
    ## Resultado 
