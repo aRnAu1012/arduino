@@ -1,4 +1,4 @@
-# Titulo
+# Plantilla
 # Resumen 
 # Introduccion
 
