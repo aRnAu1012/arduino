@@ -44,7 +44,7 @@ Void loop (){ ASIGNAR SWICHSTATE = Digital Read (2);
    
    Colocar el interructor en el protoboard .Conecta un lado a la corriente , y el otro en la clavija digital 2 del arduino . Tambien tendras que añadir una resistencia de 10 K-ohm de la toma a la clavija del interructor que conecta con el arduino. Esta resistencia se conecta la clavija a la toma de la tierra cuando el interructor esta abierto.
    
-   
+  https://github.com/aRnAu1012/arduino./blob/main/codigo_interfaz.ino 
    
    - Enlace codigo utilizado:
 
