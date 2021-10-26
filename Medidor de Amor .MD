@@ -87,6 +87,16 @@ es entre 0-1023.
 Loat Voltage =(sensorVal/10240 ) * 5.0;
 Serial.print (",Volts:"); Serial.print(voltage);
 
+ (temperatura < baselinetemp) {
+ dw(2,LOW);
+ dw(3,LOW);
+ DW(4,LOW);
+ }
+ else }
+ (temperature >= baselinetemp 2 
+ temperature < baselinetemp +4)
+ 
+ 
  
  
 
