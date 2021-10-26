@@ -55,10 +55,9 @@ Void loop (){ ASIGNAR SWICHSTATE = Digital Read (2);
 
   
    ## Resultado 
+   
   -Foto:
-  
-  -Video:
-  
+ 
   -Funciona: si funciona , si no le das al boton esta encendido un boton , pero si le das al boton se encienden los 3 
   
    ## Variaciones 
