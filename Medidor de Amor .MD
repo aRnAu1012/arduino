@@ -40,7 +40,7 @@ Serail. es un objeto (cosa) entonces tenemos que definir con esa (cosa)
  
  ## For
 for (int pinNumber = 2 ; pinNumber =5  ; pinNumber ++ ){
-     variable 
+         variable 
  pinNumber ++ = Suma 1 a pinNumber
  
  Escribir Numero (pinNumber);
