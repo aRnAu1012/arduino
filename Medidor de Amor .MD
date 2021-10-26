@@ -26,6 +26,8 @@ ANTES DEL SETUP;
 
 Setup (){
 
+## Serial.Begin(9600)
+
 Serial.begin(9600);
 
 Serail. es un objeto (cosa) entonces tenemos que definir con esa (cosa)
@@ -35,3 +37,10 @@ Serail. es un objeto (cosa) entonces tenemos que definir con esa (cosa)
  9600 = baudios
  
  Inicia la comunicacio por via USB 
+ 
+ ## For
+for (int pinNumber = 2 ; pinNumber =5  ; pinNumber ++ ){
+     variable 
+ pinNumber ++ = Suma 1 a pinNumber
+ 
+ }
