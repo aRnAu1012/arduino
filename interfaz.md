@@ -93,7 +93,34 @@ Void loop (){ ASIGNAR SWICHSTATE = Digital Read (2);
    - Enlace codigo utilizado 
    ## Resultado 
   -Foto
+  
   -Video
-   -Funciona o no 
+  
+  -Funciona o no 
+  
    ## Variaciones 
+   
+   -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
