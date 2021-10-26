@@ -39,7 +39,9 @@ Void loop (){ ASIGNAR SWICHSTATE = Digital Read (2);
    
   - Circuito
   
-  - Foto del circuito
+  - video del circuito
+   https://youtu.be/Sl5UKPwK2mo
+  
 
   ## Codigo 
    - Explicar:
@@ -56,7 +58,8 @@ Void loop (){ ASIGNAR SWICHSTATE = Digital Read (2);
   
    ## Resultado 
    
-  -Foto:
+  -Foto: 
+  https://youtu.be/Sl5UKPwK2mo
  
   -Funciona: si funciona , si no le das al boton esta encendido un boton , pero si le das al boton se encienden los 3 
   
