@@ -78,6 +78,16 @@ digitalWrite (pinMode,LOW);
  Y 1023 significa 5 voltios.
  
  
+Serial.print (" sensor value:  ",);= String Cadena de caracteristiques 
+
+Serial.print(sensor val);
+
+es entre 0-1023.
+
+Loat Voltage =(sensorVal/10240 ) * 5.0;
+Serial.print (",Volts:"); Serial.print(voltage);
+
+ 
  
 
 
