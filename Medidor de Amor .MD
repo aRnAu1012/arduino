@@ -10,7 +10,7 @@ Este es un programa que mide temperatura de y enciende LEDS
  Switch State = digitalRead (2);
  Si tengo el boton pulsado esto hara 1 , si no tengo el boton pulsado esto hace 0.
  
-## Const
+## Constantes
 Int sensorPin =A0 ; 
 Cada vez que yo ponga sernsor Pin esto pondra A0 ;
 
@@ -23,3 +23,15 @@ Float = ( Numero decimal )
 baseline temp = Temperatura base
 
 ANTES DEL SETUP; 
+
+Setup (){
+
+Serial.begin(9600);
+
+Serail. es un objeto (cosa) entonces tenemos que definir con esa (cosa)
+
+ begin= Crear (instancia)
+ 
+ 9600 = baudios
+ 
+ Inicia la comunicacio por via USB 
