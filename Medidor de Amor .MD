@@ -14,6 +14,7 @@ Este es un programa que mide temperatura de y enciende LEDS
  Si tengo el boton pulsado esto hara 1 , si no tengo el boton pulsado esto hace 0.
  
 ## Constantes
+
 Int sensorPin = A0 ;
 
 Cada vez que yo ponga sernsor Pin esto pondra = A0 ;
@@ -94,7 +95,11 @@ Serial.print (",Volts:"); Serial.print(voltage);
  }
  else }
  (temperature >= baselinetemp 2 
- temperature < baselinetemp +4)
+ temperature <= baselinetemp +4)
+ 
+ 
+ 
+ 
  
  
  
