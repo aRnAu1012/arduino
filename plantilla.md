@@ -54,9 +54,11 @@ Void loop (){ ASIGNAR SWICHSTATE = Digital Read (2);
    Vamos a añadir un boton conectado al pin 3 de tal forma que solo cuando se pulse el led 3 se encendera.
    El resto del proyecto (hardware y sotware ) es el mismo.
    
-   Antes :
+   Antes:
    pin 3 ----LED------- resistencia ------ GND.
-   Despues :
+   
+   Despues:
+   
    pin 3 ----led ------pulsador---------resistencia ------GND.
    
    
