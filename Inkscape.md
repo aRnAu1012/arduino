@@ -160,6 +160,8 @@ he escojido estas imagenes porque son de los personajes y personas que mas me gu
 En las tres imagenes le he bajado un poco el brillo , le he cambiado el color , a una le he bajado el tamaño de la imagen , y he intentado poner unos colores diferentes a lo normal
 
 
+leon 01.PNG 
+/home/auxiliarinformatica/Descargas/leon01.png
 
 
 
