@@ -161,7 +161,8 @@ En las tres imagenes le he bajado un poco el brillo , le he cambiado el color , 
 
 
 leon 01.PNG 
-/home/auxiliarinformatica/Descargas/leon01.png
+
+![leon01](https://user-images.githubusercontent.com/90753272/139020417-d0e8a117-88db-4299-8787-da6f038b4aa8.png)
 
 
 
