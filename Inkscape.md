@@ -159,13 +159,19 @@ he escojido estas imagenes porque son de los personajes y personas que mas me gu
 
 En las tres imagenes le he bajado un poco el brillo , le he cambiado el color , a una le he bajado el tamaño de la imagen , y he intentado poner unos colores diferentes a lo normal
 
+## Vectorizar
 
 leon 01.PNG 
 
 ![leon01](https://user-images.githubusercontent.com/90753272/139020417-d0e8a117-88db-4299-8787-da6f038b4aa8.png)
 
+LEON 02.PNG
 
+![leon02](https://user-images.githubusercontent.com/90753272/139020630-4c17710a-5c86-437f-8406-f92592c287ae.png)
 
+Leon 03.PNG
+
+![leon03](https://user-images.githubusercontent.com/90753272/139020797-547c8fe9-d0ef-48ec-8b45-294559c5b3f1.png)
 
 
 
