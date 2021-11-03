@@ -13,3 +13,74 @@ TEMPERATURA ( 15 C - 80 C)
 
 Sensorvalue (0 - 1.024)
 
+Leer PIN A0
+    Analog read ---> 0 - 1023 (8 bytes ) 
+
+Transforma los valores :
+          Y, de Regalo , las pinta en pantalla.
+         
+ -Decidir:
+  T < 20 
+  
+  DigitalWrite = Es una función que nos pide un numero de pin y el valor HIGH ( 1 ) o LOW (0)
+  
+  si el valor es HIGH la placa suministrara 5 voltios en ese pin 
+  
+  si el valor es LOW la placa suministrara 0 voltios en ese Pin.
+  
+  Si hay 5 V se activaran dos circuitos si es 0 V no se activaran.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
