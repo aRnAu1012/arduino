@@ -44,7 +44,7 @@ Transforma los valores :
   
 } Else if (temperature >= baselineTemp +2 && temperature < baselineTemp +4){
 
-DW ( 2 ,high);
+DW ( 2 , HIGH );
 dw (3,LOW );
 DW (4,LOW );
   
