@@ -1,4 +1,4 @@
-# Depende del hardware y como esta conectado 
+# Operaciones 
 
 Y
 O
@@ -15,7 +15,7 @@ TEMPERATURA ( 15 C - 80 C)
 
 Sensorvalue (0 - 1.024)
 
-# Operaciones 
+
 
 Leer PIN A0
     Analog read ---> 0 - 1023 (8 bytes ) 
