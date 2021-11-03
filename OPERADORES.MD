@@ -34,6 +34,14 @@ Transforma los valores :
   
   Si hay 5 V se activaran dos circuitos si es 0 V no se activaran.
   
+  ejemplo:
+   
+  DigitalWrite ( 4 ; LOW ); o digitalWrite (4,0); se desactivaran los numeros de los pines 
+  
+ Si es high se activaran 5 V A los numeros de los pines.
+  
+  
+  
   
   
   
