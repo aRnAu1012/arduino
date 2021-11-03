@@ -36,13 +36,17 @@ Transforma los valores :
   
   ejemplo:
    
-  DigitalWrite ( 4 ; LOW ); o digitalWrite (4,0); se desactivaran los numeros de los pines 
+ DigitalWrite ( 4 ; LOW ); o digitalWrite (4,0); se desactivaran los numeros de los pines 
   
  Si es high se activaran 5 V A los numeros de los pines.
   
   
   
-  
+} Else if (temperature >= baselineTemp +2 && temperature < baselineTemp +4){
+
+DW ( 2 ,high);
+dw (3,LOW );
+DW (4,LOW );
   
   
   
