@@ -113,7 +113,9 @@ float ---> numero decimales.
  [prueba 7](https://github.com/DavidMenCam/Arduino/blob/main/arduino_ver_7.ino)(imajen de david)
 
 
+### Errores
 
+El error que hemos tenido ha sido que teniamos los potenciadores mal puestos, y un cable estaba con el ground cuando tenia que ir con el 5 V.
 
 ![](https://github.com/Baultek/Arduino/blob/main/imagenes%20arduino/circuito%20lampara.png?raw=true)
 
