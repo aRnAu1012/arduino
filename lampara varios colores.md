@@ -66,7 +66,9 @@ float ---> numero decimales.
 
 ##### [Codigo de programacion](https://github.com/Baultek/Arduino/blob/be455e3ec709481f8e5f2d400fff8f7fe17e984f/imagenes%20arduino/lampara_de_varios_colores.ino)
 
-
+#### imajen :
+ 
+ ![](https://github.com/Baultek/Arduino/blob/main/imagenes%20arduino/circuito%20lampara.png?raw=true)
 
 
 
