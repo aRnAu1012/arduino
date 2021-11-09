@@ -44,9 +44,23 @@ La funcion nos pide dos cosas :
 
 2- Un numero entre 0 y 255 .
 
-0 --->  Significa 0 % de voltaje 
+0 --->  Significa 0 % de voltaje .
 
-255 ---> 100 % de voltaje (5 V)
+255 ---> 100 % de voltaje (5 V).
+
+int = Integer (numero entero ).
+
+Significa que nuestra variable es un tipo de dato numerico no decimal.
+
+Le asigna un espacio en memoria .
+
+String ----> cadena de caracteres .
+
+Bool ---> Booleano y es verdadera ( true ) o falso (false).
+
+chaz ----> 1 unico caracter. 
+
+float ---> numero decimales.
 
 
 
