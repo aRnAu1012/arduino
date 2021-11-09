@@ -63,7 +63,6 @@ chaz ----> 1 unico caracter.
 float ---> numero decimales.
 
 ## Montaje Proyecto 
-- Documentar
 
 ### codigo:
 
