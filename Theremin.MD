@@ -154,7 +154,11 @@ void checkButton(){
 }
 
 
+## UN SIPPET
 
+Fragmento de codigo que no funciona por si mismo que sirve para una funcion concreta.
+
+Los Snipper se copian se pegan y normalmente se adaptan al codigo a mano por le programadore 
 
 
 
