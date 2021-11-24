@@ -57,6 +57,7 @@ delay(10);
 
 
 
+
 map = La extension de la funcion map que determina el tono es bastante amplia,
 prueba a canbiar las frecuencias para dar con algunas que se ajusten mejor a tu estilo musical.
 
