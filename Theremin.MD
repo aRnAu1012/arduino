@@ -120,7 +120,7 @@ delay(10);
 }
  
 }
-
+### Codigo snipet by chichilia
 //Colocar en la sección de variables globales.
 int switchState = 0;
 bool isTheButtonBeingPressed = false;
