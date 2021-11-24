@@ -95,10 +95,34 @@ Plitch = map (sensorValue , sensorLow, sensor HIGH , 50 , 400 ----> TRANSFORMAR
 
 TONE (8,PLITCH , 20 );
 
+## Variacion 1 
 
+boton por hardware
 
+## Variacion 2 
+boton por sotware  (como la interfazz de nieve )
 
+map(sensorvalue,sensorhigh, 50 , 4000);
+tone 8, pitch,20  );
+delay (10);
 
+void loop () {
+
+int etadoboton = digitalRead (2); 
+
+if ( estadoBoton == HIGH ){
+
+tocarTheremin();
+
+}
+else {
+
+noTone (8);
+
+delay(10);
+
+ }
+}
 
 
 
