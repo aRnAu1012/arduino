@@ -74,7 +74,7 @@ Al usar sensores en un circuito de division de voltaje,entre 0 y 1023. Calibrand
 
 ##  Que hace el codigo 
 
-El codigo enpieza con un sensor de variable , luego crea variables para los valores minimos y maximos.Su valor maximo sera 1023 
+El codigo empieza con un sensor de variable , luego crea variables para los valores minimos y maximos.Su valor maximo sera 1023 
 
 LedPin 13 es el led que esta integrado ;
 
@@ -91,9 +91,13 @@ sensorvalue = analogRead(A0)----> Leer
 pitch = numero 
 
 LOOP (){
-plitch = map (sensorValue , sensorLow, sensor HIGH , 50 , 400 ----> TRANSFORMAR 
+Plitch = map (sensorValue , sensorLow, sensor HIGH , 50 , 400 ----> TRANSFORMAR 
 
-TONE (8,PLITCH , 20 ) 
+TONE (8,PLITCH , 20 );
+
+
+
+
 
 
 
