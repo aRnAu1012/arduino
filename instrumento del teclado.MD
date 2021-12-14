@@ -32,8 +32,13 @@ Void setup (){
     else{noTone (8);
       }
    }
-   
-   
+  
+  Leds por cada boton :
+  
+
+
+
+
    
    
    
