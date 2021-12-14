@@ -8,40 +8,9 @@ Errores :
 He tenido problemas con los interruptores que he puesto en el sitio equivocado,     
 
 
-Funcion Tone() = La funcion Tone es para generar sonidos, solo puede crear ondas cuadradas, no suaves ondas sinusoidales,
-
-Codigo Instrumento de teclado :
-
-````c++
-Void setup (){
-       Serial.begin(9600);
-       }
-       
- Void loop (){
-     int keyval = analogRead(A0);
-     Serial.println(keyVal);
- if(keyval == 1023){
-     tone (8,notes [0]);
-     }
-     else if (keyVal >= 990 & keyVal <=1010){
-            tone(8,notes[1]);
-     else if (keyVal >= 505 && keyVal <=515 ){
-    }
-    else if (keyVal >= 5 && keyVal <=10){
-    tone (8,notes [3]);
-    }
-    else{noTone (8);
-      }
-   }
-   ````c++
+Funcion Tone() = La funcion Tone es para generar sonidos, solo puede crear ondas cuadradas, no suaves ondas sinusoidales. 
   
-  
-  
-  
-  
-  
-  
-  ### Leds por cada boton :
+  #### Leds por cada boton :
   
   ````c++
   int notes[] = {262,294,330,349};
