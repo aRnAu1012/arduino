@@ -12,6 +12,7 @@ Funcion Tone() = La funcion Tone es para generar sonidos, solo puede crear ondas
 
 Codigo Instrumento de teclado :
 
+````c++
 Void setup (){
        Serial.begin(9600);
        }
@@ -32,8 +33,16 @@ Void setup (){
     else{noTone (8);
       }
    }
+   ````c++
   
-  Leds por cada boton :
+  
+  
+  
+  
+  
+  
+  ### Leds por cada boton :
+  
   ````c++
   int notes[] = {262,294,330,349};
 
