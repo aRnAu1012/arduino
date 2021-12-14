@@ -34,7 +34,8 @@ Void setup (){
    }
   
   Leds por cada boton :
-  "" int notes[] = {262,294,330,349};
+  ````c++
+  int notes[] = {262,294,330,349};
 
 void setup() {
   Serial.begin(9600);
@@ -82,7 +83,7 @@ else{
     digitalWrite(3,LOW);
     digitalWrite(2,LOW);
   }
-} ""
+} ````c++
 
 
 
