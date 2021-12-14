@@ -9,4 +9,4 @@ Pasos sobre el indicador de estado de animo:
 
 Foto del processo de programacion:
 
-![Captura de pantalla de 2021-11-16 12-16-21](https://user-images.githubusercontent.com/90753482/144024450-2d04f4c6-7fc2-4944-828d-390a5d951864.png)
+![sfjbhsjgbsa](https://user-images.githubusercontent.com/90753482/144024450-2d04f4c6-7fc2-4944-828d-390a5d951864.png)
