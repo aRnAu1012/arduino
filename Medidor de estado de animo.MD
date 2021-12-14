@@ -10,3 +10,4 @@ Pasos sobre el indicador de estado de animo:
 Foto del processo de programacion:
 
 ![sfjbhsjgbsa](https://user-images.githubusercontent.com/90753482/144024450-2d04f4c6-7fc2-4944-828d-390a5d951864.png)
+Esta foto es de Abril.
