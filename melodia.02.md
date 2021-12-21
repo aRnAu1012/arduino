@@ -256,7 +256,8 @@ void loop(){
   tocarNota(6,1);  //PA
   tocarNota(-1,1);  //NAS
   tocarNota(0,1);  // DE
-  
+  tocarNota(0,1);  //BE
+  tocarNota(-1,1);  //LEN
 
 
 }
