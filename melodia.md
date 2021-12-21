@@ -1,5 +1,6 @@
-codigo melodia navidad 
-                                                                                                     
+[codigo melodia navidad]
+
+```c++
 int switchStateKill = 0;
 bool isTheButtonBeingPressed = false;
 bool play = false;
@@ -62,4 +63,5 @@ else{
   isTheButtonBeingPressed = false;
 }
 }
- 
+ )
+```
