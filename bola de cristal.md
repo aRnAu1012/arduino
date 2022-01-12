@@ -41,3 +41,4 @@ Foto :
 
 ![codigo bola de cristal](https://github.com/aRnAu1012/arduino./blob/main/bola_de_cristal.ino)
 
+
