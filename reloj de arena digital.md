@@ -13,7 +13,7 @@ La función millis de Arduino es capaz de contar hasta un valor de 4,294,967,296
 
  -Tilt sensor:
  
- El interruptor de inclinacion funciona exactamente igual que un interruptor regular , lo que hace el interruptor de inclinacion es que detectan la orientacion. Suelen tener una pequeña cavidad en su interior que contiene una bola metalica.Al inclinarse el interruptor de cierta manera, la bola rueda a un lado de cavidad y conecta los dos 
+ El interruptor de inclinacion funciona exactamente igual que un interruptor regular , lo que hace el interruptor de inclinacion es que detectan la orientacion. Suelen tener una pequeña cavidad en su interior que contiene una bola metalica.Al inclinarse el interruptor de cierta manera, la bola rueda a un lado de cavidad y conecta los dos contactos en tu protoboard, cerrando el interrupto.
  
  Los interruptores de inclinacion son herramientas fantasticas y baratas para determinar la orientacion de algo.Los acelerometros son otro tipo de sensor de inclinacion, pero proporcionan mucha mas informacion .
 Si necesitas inclinacion hacia arriba o hacia abajo un sensor de inclinacion es perfecto .
