@@ -19,3 +19,4 @@ Si necesitas inclinacion hacia arriba o hacia abajo un sensor de inclinacion es 
  -Foto 
  - codigo [enlace codigo]
  
+
