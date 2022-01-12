@@ -37,3 +37,4 @@ Si necesitas inclinacion hacia arriba o hacia abajo un sensor de inclinacion es 
 
 ## Errores :
 Hemos quitado los acentos porque en la pantalla salia letras japosenas por esos acentos.
+
