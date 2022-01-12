@@ -12,7 +12,10 @@ La función millis de Arduino es capaz de contar hasta un valor de 4,294,967,296
   Un int (numero entero) es un numero de 16 bits y contiene valores de entre -32.768 y 32.767, si el arduino cuenta 1000 veces por segundo con millis () , se quedaria sin espacio en menos de un minuto. 
 
  -Tilt sensor:
-  Los interruptores de inclinacion son herramientas fantasticas y baratas para determinar la orientacion de algo.Los acelerometros son otro tipo de sensor de inclinacion, pero proporcionan mucha mas informacion .
+ 
+ El interruptor de inclinacion funciona exactamente igual que un interruptor regular , lo que hace el interruptor de inclinacion es que detectan la orientacion. Suelen tener una pequeña cavidad en su interior que contiene una bola metalica.Al inclinarse el interruptor de cierta manera, la bola rueda a un lado de cavidad y conecta los dos 
+ 
+ Los interruptores de inclinacion son herramientas fantasticas y baratas para determinar la orientacion de algo.Los acelerometros son otro tipo de sensor de inclinacion, pero proporcionan mucha mas informacion .
 Si necesitas inclinacion hacia arriba o hacia abajo un sensor de inclinacion es perfecto .
  
  ## Montaje 
