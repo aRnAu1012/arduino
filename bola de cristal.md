@@ -35,7 +35,8 @@ Su funcionamiento es muy similar a la sentencia if , aunque este permite visuali
 
 
 ## Montaje 
-Foto :
+Foto : 
+![dgfsdjg](https://github.com/aRnAu1012/arduino./blob/main/IMG-20220112-WA0009.jpeg?raw=true)
 
 ## Codigo
 
