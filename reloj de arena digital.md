@@ -17,8 +17,7 @@ Si necesitas inclinacion hacia arriba o hacia abajo un sensor de inclinacion es 
  
  ## Montaje 
  -Foto : 
- 
- ![jinhjyu7ub](https://github.com/aRnAu1012/arduino./blob/main/IMG-20220112-WA0007.jpeg?raw=true)
+  ![jinhjyu7ub](https://github.com/aRnAu1012/arduino./blob/main/IMG-20220112-WA0007.jpeg?raw=true)
  - codigo [enlace codigo]
  
 
