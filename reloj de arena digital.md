@@ -33,3 +33,7 @@ Si necesitas inclinacion hacia arriba o hacia abajo un sensor de inclinacion es 
  
  ## Variacion 
 ![codigo variacion](https://github.com/aRnAu1012/arduino./blob/main/reloj_de_arena_digital_variacion.ino)
+
+
+## Errores :
+Hemos quitado los acentos porque en la pantalla salia letras japosenas por esos acentos.
