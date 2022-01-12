@@ -37,5 +37,7 @@ Su funcionamiento es muy similar a la sentencia if , aunque este permite visuali
 ## Montaje 
 Foto :
 
-## Codigo 
+## Codigo
+
+![codigo bola de cristal](https://github.com/aRnAu1012/arduino./blob/main/bola_de_cristal.ino)
 
