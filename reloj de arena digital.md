@@ -16,7 +16,9 @@ La función millis de Arduino es capaz de contar hasta un valor de 4,294,967,296
 Si necesitas inclinacion hacia arriba o hacia abajo un sensor de inclinacion es perfecto .
  
  ## Montaje 
- -Foto 
+ -Foto : 
+ 
+ ![jinhjyu7ub](https://github.com/aRnAu1012/arduino./blob/main/IMG-20220112-WA0007.jpeg?raw=true)
  - codigo [enlace codigo]
  
 
