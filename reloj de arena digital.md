@@ -36,6 +36,6 @@ Si necesitas inclinacion hacia arriba o hacia abajo un sensor de inclinacion es 
 
 
 ## Errores :
-Hemos quitado los acentos porque en la pantalla salia letras japosenas por esos acentos.
+Hemos tenido problemas para poner el altavos en la placa , tambien el sonido de la cancion se esucha un poco grave y mal.
 
 
