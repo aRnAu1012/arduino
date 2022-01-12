@@ -42,4 +42,5 @@ Foto :
 
 ![codigo bola de cristal](https://github.com/aRnAu1012/arduino./blob/main/bola_de_cristal.ino)
 
-
+## Errores :
+Hemos quitado los acentos porque en la pantalla salia letras japosenas por esos acentos.
