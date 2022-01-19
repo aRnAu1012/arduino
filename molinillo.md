@@ -26,6 +26,9 @@ Potencia = intensidad * Voltaje al cuadrado
 I = V/R
 Intensidad = Voltaje / Resistencia
 
+## Codigo Molinillo
+
+![codigo](https://github.com/aRnAu1012/arduino./blob/main/codigo%20molinillo.md)
 
 
 
