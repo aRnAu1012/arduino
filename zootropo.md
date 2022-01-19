@@ -36,7 +36,7 @@ El circuito integrado contiene:
 
 ## Codigo
 
-![Codigo Zootropo](https://github.com/aRnAu1012/arduino./blob/main/codigo%20Zootropo)
+![Zootropo](https://github.com/aRnAu1012/arduino./blob/main/codigo%20Zootropo)
 
 
 
