@@ -30,5 +30,8 @@ Intensidad = Voltaje / Resistencia
 
 ![codigo](https://github.com/aRnAu1012/arduino./blob/main/codigo%20molinillo.md)
 
+## Foto
+![foto](https://github.com/aRnAu1012/arduino./blob/main/20220119_102811.jpg)
+
 
 
