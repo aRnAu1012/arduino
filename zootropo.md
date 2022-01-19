@@ -8,6 +8,36 @@ Ayudan a simplificar circuitos mas complejos al colocarlos en un componente faci
 
 un numero de transistores integrados. 
 
-Con un CI, puedes acceder a estos circuitos a traves de las clavijas que salen 
+Con un CI, puedes acceder a estos circuitos a traves de las clavijas que salen por los lados .
+
+### Puente H 
+
+El puente H contiene:
+
+-Transitor + DIODO 
+
+-No hay modulacion de velocidad 
+
+-Sentido 0 
+
+-ON/OFF
+
+### Circuito integrado 
+
+El circuito integrado contiene:
+
+-Puente H
+
+-Velocidad 
+
+-Sentido 
+
+-ON/OFF
+
+
+
+
+
+
 
 
