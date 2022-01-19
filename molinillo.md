@@ -1,6 +1,6 @@
-## Molinillo Motorizado 
+# Molinillo Motorizado 
 
-# INFORMACION
+## INFORMACION
 Transistores = son componentes que te permiten controlar fuentes de alta corriente y alto voltaje desde la salida de baja corriente del Arduino. 
 
 Los transistores son como unos interruptores digitales.
