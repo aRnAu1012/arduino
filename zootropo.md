@@ -38,7 +38,9 @@ El circuito integrado contiene:
 
 ![Zootropo](https://github.com/aRnAu1012/arduino./blob/main/codigo%20Zootropo)
 
-con este codigo hemos tenido unos problemas con los botones y los cables. 
+con este codigo hemos tenido unos problemas con los botones y los cables.
+
+
 
 
 
