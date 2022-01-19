@@ -210,3 +210,12 @@ con este codigo hemos tenido unos problemas con los botones y los cables.
 
 
 
+
+
+
+
+
+
+
+
+
