@@ -18,6 +18,7 @@ void loop() {
 else {
   digitalWrite(motorPin,LOW);
   
+   
    }
 }
 
