@@ -18,7 +18,7 @@ electrolitico de 100 uF entre la toma de corriente y la toma de tierra para suav
 
 
 ## Codigo 
-![codigo cerrojo de puerta](https://github.com/aRnAu1012/arduino./blob/main/codigo%20cerrojo%20de%20puerta)
+![codigo cerrojo de puerta](https://github.com/aRnAu1012/arduino./blob/main/codigo%20cerrojo.1)
 
 He tenido un pequeño bug con el codigo, que cuando le daba un golpe se abria y se cerraba automaticamente sin que yo le dijera nada,y eso no tiene que pasar.
 
