@@ -23,6 +23,7 @@ electrolitico de 100 uF entre la toma de corriente y la toma de tierra para suav
 He tenido un pequeño bug con el codigo.
 
 He añadido esto para asi ,que no pase este bug y se quede cerrado:
+
     }
     if (numberOfKnocks >= 3 ){
       locked = false;
@@ -34,6 +35,8 @@ He añadido esto para asi ,que no pase este bug y se quede cerrado:
       Serial.println("La caja esta abierta");
     }
  }
+ 
+ 
 ## Fallos en el Montaje. 
 -He conectado con los leds, resistencias que no son correctas para los leds , siempre que se conecte resistencias con los leds hay que usar las resistencias azules.
 
