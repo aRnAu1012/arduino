@@ -14,9 +14,11 @@ de 1 MegaOhm entre la toma de tierra y el otro cable.Valores de resistencia mas 
 resistencias, conecta el LED amarillo a la clavija digital 3 del Arduino, el LED verde a la clavija digital 4,y el LED rojo a la clavija digital 5.
 
 4-Conecta las cubiertas de contacto en los cables del servomotor .Conecta el calbe rojo a la toma de corriente , y el cable negro a la toma de tierra. Coloca un condensador
-electrolitico de 100 uF entre la toma de corriente y la toma de tierra para suavizar cualquier irregularidad de voltaje ,asegurandote de leer correctamente la polaridad 
-del condensador.Conecta el cable de datos del servomotor a la clavija 9 en tu arduino. 
+electrolitico de 100 uF entre la toma de corriente y la toma de tierra para suavizar cualquier irregularidad de voltaje ,asegurandote de leer correctamente la polaridad del condensador.Conecta el cable de datos del servomotor a la clavija 9 en tu arduino. 
 
 
 ## Codigo 
 ![codigo cerrojo de puerta](https://github.com/aRnAu1012/arduino./blob/main/codigo%20cerrojo%20de%20puerta)
+
+## Fallos en el Montaje. 
+-He conectado con los leds resistencias que no son correctas para los leds , siempre que se conecte resistencias con los leds hay que usar las resistencias azules.
