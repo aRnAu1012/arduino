@@ -1,6 +1,6 @@
 ## Cerrojo de Puerta
 
-Contruir el circuito paso a paso:
+### Contruir el circuito paso a paso:
 
 1- Conecta la corriente y la toma de tierra a ambos lados del protoboard.Coloca el pulsador en el protoboard y conecta un lado a la toma de 5V.En el otro lado del interruptor,
 conecta a la toma de tierra a traves de una resistencia de 10 KiloOhm.Conecta esta junta a la clavija digital 2 en el arduino.
