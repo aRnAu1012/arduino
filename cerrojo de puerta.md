@@ -19,3 +19,4 @@ del condensador.Conecta el cable de datos del servomotor a la clavija 9 en tu ar
 
 
 ## Codigo 
+![codigo cerrojo de puerta](https://github.com/aRnAu1012/arduino./blob/main/codigo%20cerrojo%20de%20puerta)
