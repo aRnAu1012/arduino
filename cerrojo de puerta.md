@@ -20,9 +20,9 @@ electrolitico de 100 uF entre la toma de corriente y la toma de tierra para suav
 ## Codigo 
 ![codigo cerrojo de puerta](https://github.com/aRnAu1012/arduino./blob/main/codigo%20cerrojo%20de%20puerta)
 
-He tenido un pequeño bug con el codigo.
+He tenido un pequeño bug con el codigo, que cuando le daba un golpe se abria y se cerraba automaticamente sin que yo le dijera nada,y eso no tiene que pasar.
 
-He añadido esto para asi ,que no pase este bug y se quede cerrado:
+He añadido esto para que no pase este bug y se quede cerrado:
 
     }
     if (numberOfKnocks >= 3 ){
@@ -40,4 +40,6 @@ He añadido esto para asi ,que no pase este bug y se quede cerrado:
 ## Fallos en el Montaje. 
 -He conectado con los leds, resistencias que no son correctas para los leds , siempre que se conecte resistencias con los leds hay que usar las resistencias azules.
 
--En el codigo he tenido problemas con 
+-En el codigo he tenido problemas con un bug porque se cerraba automaticamente.
+
+
