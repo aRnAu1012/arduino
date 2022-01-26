@@ -42,4 +42,7 @@ He añadido esto para que no pase este bug y se quede cerrado:
 
 -En el codigo he tenido problemas con un bug porque se cerraba automaticamente.
 
+## Foto 
+![foto Montaje](https://github.com/aRnAu1012/arduino./blob/main/20220126_122317.jpg)
+
 
