@@ -19,7 +19,7 @@ VRy -> Este es el Voltaje Regulado en el eje Y vertical. Hay que conectarlo a un
 
 SW -> Switch. Este es el botón. Al estar ya integrado se puede conectar directamente a un pin digital sin tener que incluir la resistencia. Sin embargo este es un botón PULL UP en vez de un botón PULL DOWN (que es lo que hemos realizado en el resto del curso). Esto significa que cuando está sin pulsar leerá 1 (o HIGH) y cuando esté pulsado leerá 0 (o LOW).
  
-Informacion sacada de [Clase de joystick]!("https://github.com/d-prieto/arduinoCourse/blob/main/Clase_de_Joystick.md")
+Informacion sacada de ![Clase de joystick]("https://github.com/d-prieto/arduinoCourse/blob/main/Clase_de_Joystick.md")
 
 
 
