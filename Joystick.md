@@ -29,6 +29,6 @@ Informacion sacada de ![Clase de joystick]("https://github.com/d-prieto/arduinoC
 
 
 
-### enlaze de documentacion del modulo de Joystick de David Prieto
+### enlace de documentacion del modulo de Joystick de David Prieto
 
 ![informacio de David Prieto](https://github.com/d-prieto/arduinoCourse/blob/main/Clase_de_Joystick.md)
