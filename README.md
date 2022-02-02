@@ -40,3 +40,5 @@ Hola soy Arnau me gusta jugar al futbol y ir al gimnasio , mi anterior instituto
 
 ![Reloj de arena digital.md](https://github.com/aRnAu1012/arduino./blob/main/reloj%20de%20arena%20digital.md)
 
+![Molinillo.md](https://github.com/aRnAu1012/arduino./blob/main/molinillo.md)
+
