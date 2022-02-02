@@ -14,3 +14,5 @@
 
 [Joystick.md](https://github.com/aRnAu1012/arduino./blob/main/Joystick.1)
 
+[Cerrojo.1.md](https://github.com/aRnAu1012/arduino./blob/main/codigo%20cerrojo.1)
+
