@@ -3,6 +3,12 @@
 ### Informacion sobre el modulo de Joystick 
 En el Arduino la funcion que ha hecho el joystick a sido que cuando tu giras el joystick en el monitor serie de arduino hace que te diga exactamente en que eje x,y esta exactamente.
 
+
+
+
+![Imagen](https://github.com/aRnAu1012/arduino./blob/main/Captura%20de%20pantalla%20de%202022-02-02%2010-09-20.png)
+
+
 ![codigo joystick](https://github.com/aRnAu1012/arduino./blob/main/Joystick.1)
 
 
