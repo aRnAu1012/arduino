@@ -11,3 +11,6 @@
 [Molinillo.md](https://github.com/aRnAu1012/arduino./blob/main/codigo%20molinillo.md)
 
 [Codigo interfaz.ino.md](https://github.com/aRnAu1012/arduino./blob/main/codigo_interfaz.ino)
+
+[Joystick.md](https://github.com/aRnAu1012/arduino./blob/main/Joystick.1)
+
