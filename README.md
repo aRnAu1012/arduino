@@ -6,19 +6,19 @@ Hola soy Arnau me gusta jugar al futbol y ir al gimnasio , mi anterior instituto
 
 # arduino.
 
-[Lampara varios colores][https://github.com/aRnAu1012/arduino./blob/main/lampara%20varios%20colores.md]
+[Lampara varios colores](https://github.com/aRnAu1012/arduino./blob/main/lampara%20varios%20colores.md)
 
-[Interfaz .md][https://github.com/aRnAu1012/arduino./blob/main/interfaz.md]
+[Interfaz .md](https://github.com/aRnAu1012/arduino./blob/main/interfaz.md)
 
-[Interfaz de nave][https://github.com/aRnAu1012/arduino./blob/main/interfaz%20de%20nave.md]
+[Interfaz de nave](https://github.com/aRnAu1012/arduino./blob/main/interfaz%20de%20nave.md)
 
-[Codigo interfaz][https://github.com/aRnAu1012/arduino./blob/main/codigo_interfaz.ino]
+[Codigo interfaz](https://github.com/aRnAu1012/arduino./blob/main/codigo_interfaz.ino)
 
-[Primera prueba.real][https://github.com/aRnAu1012/arduino./blob/main/Primera%20prueba%20.md]
+[Primera prueba.real](https://github.com/aRnAu1012/arduino./blob/main/Primera%20prueba%20.md)
 
-[Operaciones.md][https://github.com/aRnAu1012/arduino./blob/main/OPERADORES.MD]
+[Operaciones.md](https://github.com/aRnAu1012/arduino./blob/main/OPERADORES.MD)
 
-[Medidor de amor.md][https://github.com/aRnAu1012/arduino./blob/main/Medidor%20de%20Amor%20.MD]
+[Medidor de amor.md](https://github.com/aRnAu1012/arduino./blob/main/Medidor%20de%20Amor%20.MD)
 
 ![Indicador de estado de animo.MD](https://github.com/aRnAu1012/arduino./blob/main/Medidor%20de%20estado%20de%20animo.MD)
 
