@@ -20,5 +20,23 @@ Hola soy Arnau me gusta jugar al futbol y ir al gimnasio , mi anterior instituto
 
 [Medidor de amor.md][https://github.com/aRnAu1012/arduino./blob/main/Medidor%20de%20Amor%20.MD]
 
-![](https://user-images.githubusercontent.com/90753272/143204937-240e9c20-243c-4e18-9d7c-9f30a55dd949.jpg)
+![Indicador de estado de animo.MD](https://github.com/aRnAu1012/arduino./blob/main/Medidor%20de%20estado%20de%20animo.MD)
+
+![Theremin.MD](https://github.com/aRnAu1012/arduino./blob/main/Theremin.MD)
+
+![Bola de cristal.md](https://github.com/aRnAu1012/arduino./blob/main/bola%20de%20cristal.md)
+
+![Cerrojo de puerta.md](https://github.com/aRnAu1012/arduino./blob/main/cerrojo%20de%20puerta.md)
+
+![Instrumento del teclado](https://github.com/aRnAu1012/arduino./blob/main/instrumento%20del%20teclado.MD)
+
+![Interfaz de nave.md](https://github.com/aRnAu1012/arduino./blob/main/interfaz%20de%20nave.md)
+
+![Reloj de arena.md](https://github.com/aRnAu1012/arduino./blob/main/reloj%20de%20arena%20digital.md)
+
+![Zootropo.md](https://github.com/aRnAu1012/arduino./blob/main/zootropo.md)
+
+![Melodia.MD](https://github.com/aRnAu1012/arduino./blob/main/melodia.md)
+
+
 
