@@ -13,7 +13,7 @@ esta imagen esta sacada de Andree
 codigo joystick
 
 
- ``
+ 
 const int pinBoton = 3; 
 const int pinEjeY = A1; 
 const int pinEjeX = A0; 
@@ -36,8 +36,8 @@ void loop() {
   Serial.print("\n\n");
   delay(150);
 }
-``
-C++
+
+
 
 
 ### Conexiones del modulo 
