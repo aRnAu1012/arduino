@@ -40,6 +40,10 @@ El circuito integrado contiene:
 
 con este codigo hemos tenido unos problemas con los botones y los cables.
 
+## Imagen Zootropo 
+[Imagen](https://www.google.com/search?channel=fs&client=ubuntu&q=que+es+un+zootropo)
+
+Imagen sacada de Andree
 
 
 
