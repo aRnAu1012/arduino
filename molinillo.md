@@ -31,8 +31,27 @@ I = V/R
 Intensidad = Voltaje / Resistencia
 
 ## Codigo Molinillo
+Codigo Molinillo
+```C++
+const int switchPin = 2;
+const int motorPin = 9;
+int switchState = 0;
+void setup() {
+  pinMode(motorPin, OUTPUT);
+  pinMode(switchPin, INPUT);
+}
+void loop(){
+  switchState = digitalRead(switchPin);
 
-![codigo](https://github.com/aRnAu1012/arduino./blob/main/codigo%20molinillo.md)
+  if (switchState == HIGH){
+    digitalWrite(motorPin, HIGH); 
+  }
+  else{ digitalWrite(motorPin, LOW);
+}
+}
+
+```
+
 
 ## Foto
 ![foto](https://github.com/Samael696/arduino/blob/main/IMG_20220119_101702.jpg?raw=true)
