@@ -105,9 +105,9 @@ void loop(){
 codigo sacado de christian
 
 ## Imagen Zootropo 
-[Imagen](https://www.google.com/search?channel=fs&client=ubuntu&q=que+es+un+zootropo)
+[Imagen](https://raw.githubusercontent.com/Baultek/Arduino/main/imagenes%20arduino/zooooo.jpg)
 
-Imagen sacada de Andree
+Imagen sacada de JM
 
 
 
