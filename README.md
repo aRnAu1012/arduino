@@ -2,7 +2,7 @@
 
 Hola soy Arnau me gusta jugar al futbol y ir al gimnasio , mi anterior instituto fue el Santo angel de Gava , tengo 17 años, y soy bastante aficionado al deporte sobre todo al futbol , ver el futbol y jugarlo . En mis tiempos libres juego a la Play sobre todo al FIFA. 
 
-## Indice
+## Indice:
 
 [Lampara varios colores.md](https://github.com/aRnAu1012/arduino./blob/main/lampara%20varios%20colores.md)
 
