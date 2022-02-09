@@ -36,9 +36,73 @@ El circuito integrado contiene:
 
 ## Codigo
 
-![Zootropo](https://github.com/aRnAu1012/arduino./blob/main/codigo%20Zootropo)
+ codigo Zootropo
+```
+const int controlPin1 = 2;
+const int controlPin2 = 3;
+const int enablePin = 9;
+const int directionSwitchPin = 4;
+const int onOffSwitchStateSwitchPin = 5;
+const int potPin = A0;
 
-con este codigo hemos tenido unos problemas con los botones y los cables.
+int onOffSwitchState = 0;
+int previousOnOffSwitchState = 0;
+int directionSwitchState = 0;
+int previousDirectionSwitchState =0;
+int motorEnabled = 0;
+int motorSpeed = 0;
+
+int motorDirection = 1;
+void setup(){ 
+  pinMode(directionSwitchPin, INPUT);
+  pinMode(onOffSwitchStateSwitchPin, INPUT);
+  pinMode(controlPin1, OUTPUT);
+  pinMode(controlPin2, OUTPUT);
+  pinMode(enablePin, OUTPUT);
+  digitalWrite(enablePin, LOW);
+  Serial.begin(9600);
+}
+void loop(){
+  onOffSwitchState = digitalRead(onOffSwitchStateSwitchPin);
+  delay(1);
+  directionSwitchState = digitalRead(directionSwitchPin);
+  motorSpeed = analogRead(potPin)/4;
+  Serial.println("Valor del botón On/OFf:");
+  Serial.println(onOffSwitchState);
+  Serial.println("Valor del botón Dirección:");
+  Serial.println(directionSwitchState);
+    Serial.println("Valor de la velocidad:");
+  Serial.println(motorSpeed);
+  if(onOffSwitchState != previousOnOffSwitchState){
+    if(onOffSwitchState == HIGH){
+      motorEnabled = !motorEnabled;
+    }
+  }
+  if (directionSwitchState !=
+  previousDirectionSwitchState) {
+  if (directionSwitchState == HIGH) {
+    motorDirection = !motorDirection;
+    }
+  }
+  if(motorDirection ==1) {
+    digitalWrite(controlPin1, HIGH);
+    digitalWrite(controlPin2, LOW);
+  }
+  else {
+    digitalWrite(controlPin1,LOW);
+    digitalWrite(controlPin2,HIGH); 
+  }
+  if (motorEnabled == 1) {
+    analogWrite(enablePin, motorSpeed);
+  }
+  else {
+    analogWrite(enablePin, 0);
+  }
+  previousDirectionSwitchState =
+
+```
+
+codigo sacado de christian
 
 ## Imagen Zootropo 
 [Imagen](https://www.google.com/search?channel=fs&client=ubuntu&q=que+es+un+zootropo)
