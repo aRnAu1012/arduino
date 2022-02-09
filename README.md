@@ -4,42 +4,36 @@ Hola soy Arnau me gusta jugar al futbol y ir al gimnasio , mi anterior instituto
 
 ## Indice:
 
-[Lampara varios colores.md](https://github.com/aRnAu1012/arduino./blob/main/lampara%20varios%20colores.md)
+1-[Primera prueba.real](https://github.com/aRnAu1012/arduino./blob/main/Primera%20prueba%20.md)
 
-[Interfaz .md](https://github.com/aRnAu1012/arduino./blob/main/interfaz.md)
+2-![Interfaz de nave.md](https://github.com/aRnAu1012/arduino./blob/main/interfaz%20de%20nave.md)
 
-[Interfaz de nave](https://github.com/aRnAu1012/arduino./blob/main/interfaz%20de%20nave.md)
+3-[Medidor de amor.md](https://github.com/aRnAu1012/arduino./blob/main/Medidor%20de%20Amor%20.MD)
 
-[Primera prueba.real](https://github.com/aRnAu1012/arduino./blob/main/Primera%20prueba%20.md)
+4-[Lampara varios colores.md](https://github.com/aRnAu1012/arduino./blob/main/lampara%20varios%20colores.md)
 
-[Operaciones.md](https://github.com/aRnAu1012/arduino./blob/main/OPERADORES.MD)
+5-![Indicador de estado de animo.MD](https://github.com/aRnAu1012/arduino./blob/main/Medidor%20de%20estado%20de%20animo.MD)
 
-[Medidor de amor.md](https://github.com/aRnAu1012/arduino./blob/main/Medidor%20de%20Amor%20.MD)
+6-![Theremin.MD](https://github.com/aRnAu1012/arduino./blob/main/Theremin.MD)
 
-![Indicador de estado de animo.MD](https://github.com/aRnAu1012/arduino./blob/main/Medidor%20de%20estado%20de%20animo.MD)
+7-![Instrumento del teclado](https://github.com/aRnAu1012/arduino./blob/main/instrumento%20del%20teclado.MD)
 
-![Theremin.MD](https://github.com/aRnAu1012/arduino./blob/main/Theremin.MD)
+8-![Reloj de arena digital.md](https://github.com/aRnAu1012/arduino./blob/main/reloj%20de%20arena%20digital.md)
 
-![Bola de cristal.md](https://github.com/aRnAu1012/arduino./blob/main/bola%20de%20cristal.md)
+8.1-![Reloj de arena.md](https://github.com/aRnAu1012/arduino./blob/main/reloj%20de%20arena%20digital.md)
 
-![Cerrojo de puerta.md](https://github.com/aRnAu1012/arduino./blob/main/cerrojo%20de%20puerta.md)
+9-![Molinillo.md](https://github.com/aRnAu1012/arduino./blob/main/molinillo.md)
 
-![Instrumento del teclado](https://github.com/aRnAu1012/arduino./blob/main/instrumento%20del%20teclado.MD)
+10-![Zootropo.md](https://github.com/aRnAu1012/arduino./blob/main/zootropo.md)
 
-![Interfaz de nave.md](https://github.com/aRnAu1012/arduino./blob/main/interfaz%20de%20nave.md)
+11-![Bola de cristal.md](https://github.com/aRnAu1012/arduino./blob/main/bola%20de%20cristal.md)
 
-![Reloj de arena.md](https://github.com/aRnAu1012/arduino./blob/main/reloj%20de%20arena%20digital.md)
+12-![Cerrojo de puerta.md](https://github.com/aRnAu1012/arduino./blob/main/cerrojo%20de%20puerta.md)
 
-![Zootropo.md](https://github.com/aRnAu1012/arduino./blob/main/zootropo.md)
+13-![Melodia.MD](https://github.com/aRnAu1012/arduino./blob/main/melodia.md)
 
-![Melodia.MD](https://github.com/aRnAu1012/arduino./blob/main/melodia.md)
+14-![KY-015](https://github.com/aRnAu1012/arduino./blob/main/KY-015.MD)
 
-![Reloj de arena digital.md](https://github.com/aRnAu1012/arduino./blob/main/reloj%20de%20arena%20digital.md)
+15-![Campana sobre campana melodia](https://github.com/aRnAu1012/arduino./blob/main/Campana%20sobre%20campana.md)
 
-![Molinillo.md](https://github.com/aRnAu1012/arduino./blob/main/molinillo.md)
-
-![KY-015](https://github.com/aRnAu1012/arduino./blob/main/KY-015.MD)
-
-![Campana sobre campana melodia](https://github.com/aRnAu1012/arduino./blob/main/Campana%20sobre%20campana.md)
-
-![Sensor de humedad y temperatura](https://github.com/aRnAu1012/arduino./blob/main/Sensor%20de%20humedad%20y%20temperatura.md)
+16-![Sensor de humedad y temperatura](https://github.com/aRnAu1012/arduino./blob/main/Sensor%20de%20humedad%20y%20temperatura.md)
