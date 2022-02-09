@@ -85,7 +85,7 @@ else{
 }
 ```
 
-Villancico Campanas sobre campanas.
+### Villancico Campanas sobre campanas.
 ```c++
 int switchStateKill = 0;
 bool isTheButtonBeingPressed = false;
@@ -199,7 +199,7 @@ else{
 }
 ```
 
-Villancico modificado.
+### Villancico modificado.
 
 ```c++
 int switchStateKill = 0;
