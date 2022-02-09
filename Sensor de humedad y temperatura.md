@@ -24,4 +24,4 @@ El funcionamiento del sensor de humedad y temperatura es el siguiente
 
 ## Código
 
-[Enlace al código ](https://github.com/St1v3n3223/Arduino/blob/6ad90278feacc5c2559c58ec682271638c026add/codigosensor.ino)
+[Enlace al código ](https://github.com/aRnAu1012/arduino./blob/main/sketch_jan19b.ino)
