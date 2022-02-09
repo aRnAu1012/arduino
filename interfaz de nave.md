@@ -53,7 +53,7 @@ Void loop (){ ASIGNAR SWICHSTATE = Digital Read (2);
  
  ## codigo
  
-![](https://raw.githubusercontent.com/Baultek/Arduino/main/imagenes%20arduino/Captura%20de%20pantalla%20de%202021-10-26%2010-25-29.png)
+![codigo interfaz de nave](https://raw.githubusercontent.com/Baultek/Arduino/main/imagenes%20arduino/Captura%20de%20pantalla%20de%202021-10-26%2010-25-29.png)
   
    ## Resultado 
    
