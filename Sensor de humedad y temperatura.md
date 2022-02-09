@@ -10,7 +10,7 @@ A diferencia de sensores como el LM35, este sensor utiliza un pin digital para e
 Si el ejemplo más común es la estación meteorológica, también puede ser útil en proyectos donde otros sensores y componentes dependan de la temperatura o la humedad para tomar las medidas.
 
 ![imagen](https://user-images.githubusercontent.com/90753272/153171909-60bae4a6-2fda-4d29-a47f-761143d923d7.png)
-Imagen sacada del repositorio de andree.
+
 
 
 ## Funcionamiento del sensor.
