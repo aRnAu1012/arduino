@@ -6,7 +6,7 @@ Hola soy Arnau me gusta jugar al futbol y ir al gimnasio , mi anterior instituto
 
 # arduino.
 
-[Lampara varios colores](https://github.com/aRnAu1012/arduino./blob/main/lampara%20varios%20colores.md)
+[Lampara varios colores.md](https://github.com/aRnAu1012/arduino./blob/main/lampara%20varios%20colores.md)
 
 [Interfaz .md](https://github.com/aRnAu1012/arduino./blob/main/interfaz.md)
 
