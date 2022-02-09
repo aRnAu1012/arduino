@@ -74,25 +74,25 @@ float ---> numero decimales.
  
  Hemos comenzado copiando unos codigos en la pizzara de la version uno la cual seria esta en particular 
  
- [prueba 1 y principal](https://github.com/DavidMenCam/Arduino/tree/main/Arduino%20%20version%201)(imajen de david)
+ [prueba 1 y principal](https://github.com/DavidMenCam/Arduino/tree/main/Arduino%20%20version%201)(imagen de david)
  
  * Prueba 2
  
  En la segunda prueba hemos echo que 'parpadease siempre  cuando le dabamos a un boton se encendia otro y al contrario.
  
- [prueba 2](https://github.com/DavidMenCam/Arduino/blob/main/arduino%20version%202/albedo_god_2.ino)(imajen de david)
+ [prueba 2](https://github.com/DavidMenCam/Arduino/blob/main/arduino%20version%202/albedo_god_2.ino)(imagen de david)
  
  * Prueba 3
  
  lo que hemos hecho en la prueba 3 es que siempre esten parpadeando sin parar y cuando le das a un boton se enciende uno y cuando le das ah otro se enciende otro 
  
- [prueba 3](https://github.com/DavidMenCam/Arduino/blob/main/Arduino%20version%203/albedo_god_3.ino)(imajen de david)
+ [prueba 3](https://github.com/DavidMenCam/Arduino/blob/main/Arduino%20version%203/albedo_god_3.ino)(imagen de david)
  
  * Prueba 4
  
  En la prueba 4 Siempre estaban apagados y se encendian con cualquiera de losd os botones 
  
- [prueba 4](https://github.com/DavidMenCam/Arduino/blob/main/arduino_ver_4/arduino_ver_4.ino)(imajen de david)
+ [prueba 4](https://github.com/DavidMenCam/Arduino/blob/main/arduino_ver_4/arduino_ver_4.ino)(imagen de david)
  
  * prueba 5
  
@@ -104,13 +104,13 @@ float ---> numero decimales.
  
  Usamos este operador (!) este sirve para hacer la accion contraria de lo que se desea 
  
- [prueba 6](https://github.com/DavidMenCam/Arduino/tree/main/arduino_ver_6)(imajen de david)
+ [prueba 6](https://github.com/DavidMenCam/Arduino/tree/main/arduino_ver_6)(imagen de david)
  
  * prueba 7
  
   Lo que hicimos en el ultimo fue una variante de colores en cada led hcaiendo que cada uno tuviera un color diferente
  
- [prueba 7](https://github.com/DavidMenCam/Arduino/blob/main/arduino_ver_7.ino)(imajen de david)
+ [prueba 7](https://github.com/DavidMenCam/Arduino/blob/main/arduino_ver_7.ino)(imagen de david)
 
 
 ### Errores
