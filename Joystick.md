@@ -6,10 +6,37 @@ En el Arduino la funcion que ha hecho el joystick a sido que cuando tu giras el 
 
 
 
-![Imagen](https://github.com/aRnAu1012/arduino./blob/main/Captura%20de%20pantalla%20de%202022-02-02%2010-09-20.png)
+![Imagen](https://github.com/Samael696/arduino/blob/main/IMG_20220126_133159.jpg?raw=true)
+esta imagen esta sacada de Andree
 
 
-![codigo joystick](https://github.com/aRnAu1012/arduino./blob/main/Joystick.1)
+
+codigo joystick
+
+c++ ``
+const int pinBoton = 3; 
+const int pinEjeY = A1; 
+const int pinEjeX = A0; 
+ 
+void setup() {
+  pinMode(pinBoton, INPUT);
+  digitalWrite(pinBoton, HIGH);
+  Serial.begin(9600);
+}
+ 
+void loop() {
+  Serial.print("Boton:  ");
+  Serial.print(digitalRead(pinBoton));
+  Serial.print("\n");
+  Serial.print("Eje X: ");
+  Serial.print(analogRead(pinEjeX));
+  Serial.print("\n"); //esto es un salto de linea
+  Serial.print("Eje Y: ");
+  Serial.println(analogRead(pinEjeY));
+  Serial.print("\n\n");
+  delay(150);
+}
+``
 
 
 ### Conexiones del modulo 
