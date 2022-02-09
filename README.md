@@ -12,8 +12,6 @@ Hola soy Arnau me gusta jugar al futbol y ir al gimnasio , mi anterior instituto
 
 [Interfaz de nave](https://github.com/aRnAu1012/arduino./blob/main/interfaz%20de%20nave.md)
 
-[Codigo interfaz](https://github.com/aRnAu1012/arduino./blob/main/codigo_interfaz.ino)
-
 [Primera prueba.real](https://github.com/aRnAu1012/arduino./blob/main/Primera%20prueba%20.md)
 
 [Operaciones.md](https://github.com/aRnAu1012/arduino./blob/main/OPERADORES.MD)
