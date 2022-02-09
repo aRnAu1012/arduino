@@ -1,5 +1,7 @@
 Villancico.Nuevo
 
+En este repositorio he empezado con la melodia por defecto , pero mas a adelante he ido cambiando como a mi me gustaria y probando cosas diferentes.
+
 ```C++
 int switchStateKill = 0;
 bool isTheButtonBeingPressed = false;
