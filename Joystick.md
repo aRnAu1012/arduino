@@ -10,10 +10,10 @@ En el Arduino la funcion que ha hecho el joystick a sido que cuando tu giras el 
 esta imagen esta sacada de Andree
 
 
-
 codigo joystick
 
-c++ ``
+c++
+ ``
 const int pinBoton = 3; 
 const int pinEjeY = A1; 
 const int pinEjeX = A0; 
